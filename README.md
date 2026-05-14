@@ -22,14 +22,14 @@ Transmission	Manual or Automatic
 Owner	Number of previous owners
 
 
-Technologies Used
+Technologies Used:
 Python
 Pandas
 NumPy
 Matplotlib
 Seaborn
 Scikit-learn
-Jupyter Notebook
+Databricks
 
 
 Machine Learning Models

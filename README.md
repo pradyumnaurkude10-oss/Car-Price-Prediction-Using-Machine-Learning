@@ -23,13 +23,14 @@ Owner	Number of previous owners
 
 
 Technologies Used:
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
 Databricks
+Python,
+Pandas,
+NumPy,
+Matplotlib,
+Seaborn,
+Scikit-learn,
+
 
 
 Machine Learning Models
